@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="ur">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>فاسٹ فوڈ آڈر</title>
+    <title>12th Fail فاسٹ فوڈ آرڈر</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Custom styles not easily done with Tailwind */
@@ -110,7 +109,7 @@
             { name: 'چکن رول', price: 400 },
             { name: 'پیپسی', price: 200 },
             { name: 'چکن پیٹا', price: 800 },
-            { name: 'بروست', price: 900 }
+            { name: 'بروسٹ', price: 900 }
         ];
 
         // مینو شو کریں
@@ -374,8 +373,8 @@
                         </div>
                         <p class="token-total"><strong>کل رقم:</strong> Rs.${total}</p>
                         <p class="token-footer">ویٹنگ ٹائم: 30 منٹ</p>
-                        <p class="token-footer">--- شکریہ ---</p>
-                        <p class="token-footer">"12th Fail" فاسٹ فوڈ ریسٹورنٹ میں آرڈر کرنے کا شکریہ</p> </div>
+                        <p class="token-footer">--- "12th Fail" فاسٹ فوڈ ریسٹورنٹ میں آرڈر کرنے کا شکریہ ---</p>
+                        <p class="token-footer">"یہ ویب سائٹ صرف ڈیمو پر چیک کرنے کے لیے بنائی گئی ہے رابطہ کریں 03168910150"</p> </div>
                     <script>
                         // Automatically print when window loads
                         window.onload = function() {
