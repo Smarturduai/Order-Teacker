@@ -102,14 +102,14 @@
     <script>
         // فرضی مینو آئٹمز
         const items = [
-            { name: 'چکن برگر', price: 500 },
-            { name: 'بیف برگر', price: 600 },
+            { name: 'چکن برگر', price: 200 },
+            { name: 'بیف برگر', price: 500 },
             { name: 'فرائز', price: 300 },
-            { name: 'زنگر برگر', price: 700 },
-            { name: 'چکن رول', price: 400 },
+            { name: 'زنگر برگر', price: 350 },
+            { name: 'چکن رول', price: 150 },
             { name: 'پیپسی', price: 200 },
-            { name: 'چکن پیٹا', price: 800 },
-            { name: 'بروسٹ', price: 900 }
+            { name: 'چکن پیٹا', price: 600 },
+            { name: 'بروسٹ', price: 700 }
         ];
 
         // مینو شو کریں
